@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bibliothèque</string>
+    <string name="bookshelf">Bookshelf</string>
+    <string name="mail">Adresse mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="connexion">Se connecter</string>
+    <string name="deconnexion">Se déconnecter</string>
+    <string name="empty_mail">Veuillez renseigner une adresse mail</string>
+    <string name="empty_password">Veuillez renseigner un mot de passe</string>
+    <string name="OK">OK</string>
+    <string name="back">Retour</string>
+    <string name="read">Lu</string>
+    <string name="book_img">book_img</string>
+</resources>
